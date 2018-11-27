@@ -1,6 +1,9 @@
 {
   "name": "citd-editor",
   "version": "0.1.0",
+  "scripts": {
+    "start": "gulp serve"
+  },
   "description": "",
   "author": "",
   "devDependencies": {
